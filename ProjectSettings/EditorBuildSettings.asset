@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/English Tracing Book/Scenes/Main.unity
+    guid: d20ccbc3f8900ac4b8925a43e8e0397a
+  - enabled: 1
+    path: Assets/English Tracing Book/Scenes/KoreaAlbum.unity
+    guid: e661656e8200c9d4dae8185607d89f06
+  - enabled: 1
+    path: Assets/English Tracing Book/Scenes/Game.unity
+    guid: 580dc37f8a1ef3e468daaf4e0efcc090
   m_configObjects: {}

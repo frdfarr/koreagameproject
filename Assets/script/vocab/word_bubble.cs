@@ -1,11 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+using TMPro;
 
 public class word_bubble : MonoBehaviour
 {
-    public Text text_bubble;
+    public TextMeshProUGUI text_bubble;
     public int itemIndex;
   public string word
     {

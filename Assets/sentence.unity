@@ -614,7 +614,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1377542235}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 28514ec5abf9fc5478306004c04d9259, type: 3}
   m_Name: 
@@ -641,7 +641,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1208e4de0846a44e2a93d41b746c628f, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -690,14 +690,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _sentence_item:
   - sentence_name: "\u0E44\u0E17\u0E22\u0E44\u0E17\u0E22\u0E44\u0E17\u0E22\u0E44\u0E17\u0E22\u0E44\u0E17\u0E22"
-    word_thai: {fileID: 2800000, guid: 6063ba4200a5d485998d35bdf322e72d, type: 3}
+    word_thai: {fileID: 2800000, guid: 3d087e0bbc3404740a6650035d431cdd, type: 3}
     char_item:
     - character: "\u0E44\u0E17\u0E22"
-      imageCharacter: {fileID: 2800000, guid: 71fa033e8f54347f28fce098f08f3f76, type: 3}
-    - character: "\u0E44\u0E17\u0E22\u0E22"
-      imageCharacter: {fileID: 2800000, guid: accccc9752aac476a8de3fd3438b622f, type: 3}
-    - character: "\u0E44\u0E17\u0E22\u0E22\u0E22"
-      imageCharacter: {fileID: 2800000, guid: c87087b885f254301a9a4af2aa1f2a4b, type: 3}
+      imageCharacter: {fileID: 0}
+    - character: "\u0E44\u0E17\u0E22"
+      imageCharacter: {fileID: 0}
+    - character: "\u0E44\u0E17\u0E22"
+      imageCharacter: {fileID: 0}
+    - character: "\u0E44\u0E17\u0E22"
+      imageCharacter: {fileID: 0}
+    - character: "\u0E44\u0E17\u0E22"
+      imageCharacter: {fileID: 0}
+  - sentence_name: "\u0E44\u0E17\u0E22\u0E44\u0E17\u0E22\u0E44\u0E17\u0E22"
+    word_thai: {fileID: 2800000, guid: 3d087e0bbc3404740a6650035d431cdd, type: 3}
+    char_item:
+    - character: "\u0E44\u0E17\u0E22"
+      imageCharacter: {fileID: 0}
+    - character: "\u0E44\u0E17\u0E22"
+      imageCharacter: {fileID: 0}
+    - character: "\u0E44\u0E17\u0E22"
+      imageCharacter: {fileID: 0}
   currenct_sentence:
     sentence_name: 
     word_thai: {fileID: 0}

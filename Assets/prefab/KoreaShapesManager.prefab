@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2217244661954662414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2217244661954920678}
+  - component: {fileID: 5124551449121794004}
+  m_Layer: 0
+  m_Name: KoreaShapesManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2217244661954920678
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2217244661954662414}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5124551449121794004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2217244661954662414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a276494aba161438d5def8e1b5ecbf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shapes:
+  - showContents: 1
+    gamePrefab: {fileID: 7382232060930766944, guid: 300fe9969be7aa947a6fe1f9b265eb7b,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 6816602786122904648, guid: 69f19837776c7dc46b9b3c354bc78c2c,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 5338786362442623336, guid: 538f091a562dad24faa084044f831329,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 83404371163112301, guid: 310aa80f17916ba4486e8284e1b37436,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 6116122368822542571, guid: 8d170067ccb38234599c2df90cf69e33,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 2105627674881146863, guid: 30df290f138260f46810477366c45e6b,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 6956168056411858517, guid: f3e2b1e3756c866458dfc871f78dcafa,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 3595075439771264524, guid: ec95d269a4212374ea0cd5a172320e20,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 2498613263210908641, guid: a5a1a38b529ca2c44b74679033f12f4d,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 8838457759361011574, guid: ccc326de92678a340a637bc31674170e,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 3824024295534722515, guid: 895942a7aee768e4caaa13a2b840c9db,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 3680501487565207716, guid: 644bcfb5dfb6b434380578918eac3e7d,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 168087793477932677, guid: 53498adf53b845241b1e6589eac09c94,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 858224997551225324, guid: 2df1753ffe07dc64d97f31b289d99588,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 5214990550471750280, guid: ead3cdc06db994d47a06c8d70b3ed098,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 2139411744649277792, guid: c1c29b6bc71ba40a981696d0febd3aad,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 3406381936019514382, guid: 7c8a4a54c5ed545d19418883d6a7ad6e,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 2294821939425469871, guid: 7865d1426f8044103a8331c401e1b615,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 8640064995562973188, guid: 623a1e8a6b4d94480baf505aa51ed66c,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 921706245227578192, guid: 9fe9adc5a62ea45a2ba4b64c7abdbd06,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 5708882041366485768, guid: 427c564b0e8034bc6b9d74413e895ee9,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 880844388685916218, guid: c9d808566de7747d7acc4f23cf50ddf0,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1396057151552087986, guid: 8c350b1299a624a2ebc37208e71a7557,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1351373948026227504, guid: 647a7bc0710ee4df1b2d7115a12eecfd,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 5506234922408239875, guid: 4d10c535259fb4c74a91c76d7999b473,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 4675755464867539728, guid: 6abef94cb31574134b8665fca6c59264,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 2793304877587348646, guid: 4e4f0b7e9adf14668bd9b3052785b168,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1462372353753884031, guid: 53a255d865974427fbed74ef97f36339,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 7304306135789871451, guid: 28b99c7c5e9494afca6dabd505e521fb,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1434230712391201649, guid: cf4b0c2eea16b4d17be318ac37e04a6b,
+      type: 3}
+    picture: {fileID: 0}
+  shapeLabel: Korea
+  shapePrefix: Korea
+  sceneName: KoreaAlbum
+  lastSelectedGroup: 0

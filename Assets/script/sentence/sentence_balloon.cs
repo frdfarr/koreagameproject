@@ -16,7 +16,7 @@ public class sentence_balloon : MonoBehaviour
         if(texture_image != null)
         {
             imageBalloon.texture = texture_image;
-            //imageBalloon.GetComponent<AspectRatioFitter>().aspectRatio = (float)texture_image.width / texture_image.height;
+            imageBalloon.GetComponent<AspectRatioFitter>().aspectRatio = (float)texture_image.width / texture_image.height;
         }
 
         this.word_balloon = word;
