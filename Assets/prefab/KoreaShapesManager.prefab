@@ -101,7 +101,7 @@ MonoBehaviour:
       type: 3}
     picture: {fileID: 0}
   - showContents: 1
-    gamePrefab: {fileID: 5214990550471750280, guid: ead3cdc06db994d47a06c8d70b3ed098,
+    gamePrefab: {fileID: 5816489985449957795, guid: f25800357d10441a1befd30dcadaf987,
       type: 3}
     picture: {fileID: 0}
   - showContents: 1
@@ -162,6 +162,22 @@ MonoBehaviour:
     picture: {fileID: 0}
   - showContents: 1
     gamePrefab: {fileID: 1434230712391201649, guid: cf4b0c2eea16b4d17be318ac37e04a6b,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 6669090826836653072, guid: a86ca85da86814c06ae834d7ac24038d,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 3328197466398053890, guid: e3c15076dfdbb4691a92ad14e5fadc80,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 5386858090607965281, guid: c82fe51b0b53645088c9cfb74d449942,
+      type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 7913481679131387853, guid: db84cfa7d5ae6496fbc2504b91e9e97c,
       type: 3}
     picture: {fileID: 0}
   shapeLabel: Korea

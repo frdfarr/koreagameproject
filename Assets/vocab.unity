@@ -452,7 +452,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 367903671}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 28514ec5abf9fc5478306004c04d9259, type: 3}
   m_Name: 
@@ -479,7 +479,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: f1b8ce0371f3e3340b7165cc0dcc479d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -978,28 +978,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   items:
-  - vocab_name: ABCD
-    imageItem: {fileID: 2800000, guid: 3d087e0bbc3404740a6650035d431cdd, type: 3}
+  - vocab_name: sunglasses
+    imageItem: {fileID: 2800000, guid: 9da6d58d2f2ed4b23ade5bdddf147416, type: 3}
     char_item:
     - character: A
-      imageCharacter: {fileID: 2800000, guid: 3d087e0bbc3404740a6650035d431cdd, type: 3}
+      imageCharacter: {fileID: 2800000, guid: 3c4464223feb74e8ab24908c98825177, type: 3}
     - character: B
-      imageCharacter: {fileID: 2800000, guid: 3d087e0bbc3404740a6650035d431cdd, type: 3}
+      imageCharacter: {fileID: 2800000, guid: 6233484580a21476685acfcad08229cd, type: 3}
     - character: C
-      imageCharacter: {fileID: 2800000, guid: 3d087e0bbc3404740a6650035d431cdd, type: 3}
+      imageCharacter: {fileID: 2800000, guid: 95c599739ac744d11aff7156786a0a65, type: 3}
     - character: D
-      imageCharacter: {fileID: 2800000, guid: 3d087e0bbc3404740a6650035d431cdd, type: 3}
-  - vocab_name: CCCC
-    imageItem: {fileID: 2800000, guid: 3d087e0bbc3404740a6650035d431cdd, type: 3}
-    char_item:
-    - character: C
-      imageCharacter: {fileID: 2800000, guid: 3d087e0bbc3404740a6650035d431cdd, type: 3}
-    - character: C
-      imageCharacter: {fileID: 2800000, guid: 3d087e0bbc3404740a6650035d431cdd, type: 3}
-    - character: C
-      imageCharacter: {fileID: 2800000, guid: 3d087e0bbc3404740a6650035d431cdd, type: 3}
-    - character: C
-      imageCharacter: {fileID: 2800000, guid: 3d087e0bbc3404740a6650035d431cdd, type: 3}
+      imageCharacter: {fileID: 2800000, guid: 4b99f72dde17048cd96838f9995e5433, type: 3}
   length_word: 0
   currentVocab:
     vocab_name: 
@@ -1197,7 +1186,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 1, g: 1, b: 1, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -1264,11 +1253,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a1394964229fab4e9d806c203629e75, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DesignOrthographicSize: 0
-  DesignAspect: 0
-  DesignWidth: 0
-  DesignAspectHeight: 1080
-  DesignAspectWidth: 1920
 --- !u!1 &2136426839
 GameObject:
   m_ObjectHideFlags: 0
